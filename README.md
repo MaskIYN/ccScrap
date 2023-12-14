@@ -17,4 +17,4 @@ simple cc scrapper made in python
 put api_id and api_hash in config.yaml
 #@uhqb1ns / https://discord.gg/joavo
 
-image.png
+![Uploading image.png…]()
